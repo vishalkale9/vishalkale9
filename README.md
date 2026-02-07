@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 
-- 🌱 I’m currently learning **Angular,spring boot**
+- 🌱 I’m currently learning **Blockchain, AI ,spring boot**
 
-- 👨‍💻 All of my projects are available at [https://vishalkaleportfolio.netlify.app/](https://vishalkaleportfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://vishalkale.vercel.app/](https://vishalkale.vercel.app/)
 
 - 📝 I regularly write articles on [https://vishalbkale.medium.com/](https://vishalbkale.medium.com/)
 
